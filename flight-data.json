@@ -7,7 +7,8 @@
         "country": "ET",
         "continent": "AF",
         "City": "Addis Ababa",
-        "AirportName": "Addis Ababa Bole International Airport"
+        "AirportName": "Addis Ababa Bole International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -17,7 +18,8 @@
         "country": "NZ",
         "continent": "OC",
         "City": "Mangere",
-        "AirportName": "Auckland Airport"
+        "AirportName": "Auckland Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -27,7 +29,8 @@
         "country": "NL",
         "continent": "EU",
         "City": "Aalsmeer",
-        "AirportName": "Amsterdam Airport Schiphol"
+        "AirportName": "Amsterdam Airport Schiphol",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -37,7 +40,8 @@
         "country": "MY",
         "continent": "AS",
         "City": "Putatan",
-        "AirportName": "Kota Kinabalu International Airport"
+        "AirportName": "Kota Kinabalu International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -47,7 +51,8 @@
         "country": "TH",
         "continent": "AS",
         "City": "Lat Krabang",
-        "AirportName": "Suvarnabhumi Airport"
+        "AirportName": "Suvarnabhumi Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -57,7 +62,8 @@
         "country": "IN",
         "continent": "AS",
         "City": "Devanhalli",
-        "AirportName": "Kempegowda International Airport"
+        "AirportName": "Kempegowda International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -67,7 +73,8 @@
         "country": "AU",
         "continent": "OC",
         "City": "Ascot",
-        "AirportName": "Brisbane Airport"
+        "AirportName": "Brisbane Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -77,7 +84,8 @@
         "country": "IN",
         "continent": "AS",
         "City": "Mumbai",
-        "AirportName": "Chhatrapati Shivaji International Airport"
+        "AirportName": "Chhatrapati Shivaji International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -87,7 +95,8 @@
         "country": "US",
         "continent": "NA",
         "City": "Chelsea",
-        "AirportName": "Logan International Airport"
+        "AirportName": "Logan International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -97,7 +106,8 @@
         "country": "BN",
         "continent": "AS",
         "City": "Bandar Seri Begawan",
-        "AirportName": "Brunei International Airport"
+        "AirportName": "Brunei International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -107,7 +117,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "广州",
-        "AirportName": "广州白云国际机场"
+        "AirportName": "广州白云国际机场",
+        "province": "广东省"
     },
     {
         "coords": [
@@ -117,7 +128,8 @@
         "country": "FR",
         "continent": "EU",
         "City": "N/A",
-        "AirportName": "Charles de Gaulle Airport"
+        "AirportName": "Charles de Gaulle Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -127,7 +139,8 @@
         "country": "PH",
         "continent": "AS",
         "City": "Buagsong",
-        "AirportName": "Mactan-Cebu International Airport"
+        "AirportName": "Mactan-Cebu International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -137,7 +150,8 @@
         "country": "ID",
         "continent": "AS",
         "City": "Teluknaga",
-        "AirportName": "Soekarno-Hatta International Airport"
+        "AirportName": "Soekarno-Hatta International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -147,7 +161,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "郑州",
-        "AirportName": "郑州新郑国际机场"
+        "AirportName": "郑州新郑国际机场",
+        "province": "河南省"
     },
     {
         "coords": [
@@ -157,7 +172,8 @@
         "country": "NZ",
         "continent": "OC",
         "City": "Prebbleton",
-        "AirportName": "Christchurch International Airport"
+        "AirportName": "Christchurch International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -167,7 +183,8 @@
         "country": "KR",
         "continent": "AS",
         "City": "N/A",
-        "AirportName": "Jeju International Airport"
+        "AirportName": "Jeju International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -176,8 +193,9 @@
         ],
         "country": "CN",
         "continent": "AS",
-        "City": "Shuangfengqiao",
-        "AirportName": "Chongqing Jiangbei International Airport"
+        "City": "重庆市",
+        "AirportName": "重庆江北国际机场",
+        "province": "重庆市"
     },
     {
         "coords": [
@@ -187,7 +205,8 @@
         "country": "LK",
         "continent": "AS",
         "City": "Katunayake",
-        "AirportName": "Bandaranaike International Airport"
+        "AirportName": "Bandaranaike International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -197,7 +216,8 @@
         "country": "TH",
         "continent": "AS",
         "City": "Chiang Mai",
-        "AirportName": "Chiang Mai International Airport"
+        "AirportName": "Chiang Mai International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -207,7 +227,8 @@
         "country": "PH",
         "continent": "AS",
         "City": "Santol",
-        "AirportName": "Diosdado Macapagal International (Clark International)"
+        "AirportName": "Diosdado Macapagal International (Clark International)",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -217,7 +238,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Chitose",
-        "AirportName": "New Chitose Airport"
+        "AirportName": "New Chitose Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -227,7 +249,8 @@
         "country": "VN",
         "continent": "AS",
         "City": "Cam Lam",
-        "AirportName": "Cam Ranh International Airport"
+        "AirportName": "Cam Ranh International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -237,7 +260,8 @@
         "country": "BD",
         "continent": "AS",
         "City": "Tungi",
-        "AirportName": "Hazrat Shahjalal International Airport"
+        "AirportName": "Hazrat Shahjalal International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -247,7 +271,8 @@
         "country": "VN",
         "continent": "AS",
         "City": "Thanh Khe",
-        "AirportName": "Da Nang International Airport"
+        "AirportName": "Da Nang International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -257,7 +282,8 @@
         "country": "IN",
         "continent": "AS",
         "City": "Gurgaon",
-        "AirportName": "Indira Gandhi International Airport"
+        "AirportName": "Indira Gandhi International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -267,7 +293,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "大连",
-        "AirportName": "大连周水子国际机场"
+        "AirportName": "大连周水子国际机场",
+        "province": "辽宁省"
     },
     {
         "coords": [
@@ -277,7 +304,8 @@
         "country": "TH",
         "continent": "AS",
         "City": "Don Mueang",
-        "AirportName": "Don Mueang International Airport"
+        "AirportName": "Don Mueang International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -287,7 +315,8 @@
         "country": "QA",
         "continent": "AS",
         "City": "Doha",
-        "AirportName": "Hamad International Airport"
+        "AirportName": "Hamad International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -297,7 +326,8 @@
         "country": "ID",
         "continent": "AS",
         "City": "Kelanabian",
-        "AirportName": "Ngurah Rai International Airport"
+        "AirportName": "Ngurah Rai International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -307,7 +337,8 @@
         "country": "PH",
         "continent": "AS",
         "City": "Babak",
-        "AirportName": "Francisco Bangoy Intl Airport"
+        "AirportName": "Francisco Bangoy Intl Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -317,7 +348,8 @@
         "country": "AE",
         "continent": "AS",
         "City": "N/A",
-        "AirportName": "Dubai Airport"
+        "AirportName": "Dubai Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -327,7 +359,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "福州",
-        "AirportName": "福州长乐国际机场"
+        "AirportName": "福州长乐国际机场",
+        "province": "福建省"
     },
     {
         "coords": [
@@ -337,7 +370,8 @@
         "country": "DE",
         "continent": "EU",
         "City": "Kelsterbach",
-        "AirportName": "Frankfurt Airport"
+        "AirportName": "Frankfurt Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -347,7 +381,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Fukuoka-shi",
-        "AirportName": "Fukuoka Airport"
+        "AirportName": "Fukuoka Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -357,7 +392,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "海口",
-        "AirportName": "海口美兰国际机场"
+        "AirportName": "海口美兰国际机场",
+        "province": "海南省"
     },
     {
         "coords": [
@@ -367,7 +403,8 @@
         "country": "VN",
         "continent": "AS",
         "City": "Soc Son",
-        "AirportName": "Noi Bai International Airport"
+        "AirportName": "Noi Bai International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -377,7 +414,8 @@
         "country": "FI",
         "continent": "EU",
         "City": "N/A",
-        "AirportName": "Helsinki-Vantaa Airport"
+        "AirportName": "Helsinki-Vantaa Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -387,7 +425,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "呼和浩特",
-        "AirportName": "呼和浩特白塔国际机场"
+        "AirportName": "呼和浩特白塔国际机场",
+        "province": "内蒙古自治区"
     },
     {
         "coords": [
@@ -397,7 +436,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "合肥",
-        "AirportName": "合肥新桥国际机场"
+        "AirportName": "合肥新桥国际机场",
+        "province": "安徽省"
     },
     {
         "coords": [
@@ -407,7 +447,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "杭州",
-        "AirportName": "杭州萧山国际机场"
+        "AirportName": "杭州萧山国际机场",
+        "province": "浙江省"
     },
     {
         "coords": [
@@ -417,7 +458,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Takehara",
-        "AirportName": "Hiroshima Airport"
+        "AirportName": "Hiroshima Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -427,7 +469,8 @@
         "country": "TH",
         "continent": "AS",
         "City": "N/A",
-        "AirportName": "Phuket International Airport"
+        "AirportName": "Phuket International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -437,7 +480,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Kawasaki",
-        "AirportName": "Haneda Airport"
+        "AirportName": "Haneda Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -447,7 +491,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "哈尔滨",
-        "AirportName": "哈尔滨太平国际机场"
+        "AirportName": "哈尔滨太平国际机场",
+        "province": "黑龙江省"
     },
     {
         "coords": [
@@ -457,7 +502,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "舟山",
-        "AirportName": "舟山普陀山国际机场"
+        "AirportName": "舟山普陀山国际机场",
+        "province": "浙江省"
     },
     {
         "coords": [
@@ -467,7 +513,8 @@
         "country": "TW",
         "continent": "AS",
         "City": "Hualien City",
-        "AirportName": "Hualien Airport"
+        "AirportName": "Hualien Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -477,7 +524,8 @@
         "country": "KR",
         "continent": "AS",
         "City": "N/A",
-        "AirportName": "Incheon International Airport"
+        "AirportName": "Incheon International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -487,7 +535,8 @@
         "country": "PH",
         "continent": "AS",
         "City": "Pakiad",
-        "AirportName": "Mandurriao Airport"
+        "AirportName": "Mandurriao Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -497,7 +546,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "银川",
-        "AirportName": "银川河东国际机场"
+        "AirportName": "银川河东国际机场",
+        "province": "宁夏回族自治区"
     },
     {
         "coords": [
@@ -507,7 +557,8 @@
         "country": "TR",
         "continent": "EU",
         "City": "Bahcelievler",
-        "AirportName": "Istanbul New Airport"
+        "AirportName": "Istanbul New Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -517,7 +568,8 @@
         "country": "US",
         "continent": "NA",
         "City": "Inwood",
-        "AirportName": "John F. Kennedy International Airport"
+        "AirportName": "John F. Kennedy International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -527,7 +579,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "晋江",
-        "AirportName": "泉州晋江国际机场"
+        "AirportName": "泉州晋江国际机场",
+        "province": "福建省"
     },
     {
         "coords": [
@@ -537,7 +590,8 @@
         "country": "ZA",
         "continent": "AF",
         "City": "Modderfontein",
-        "AirportName": "O.R. Tambo International Airport"
+        "AirportName": "O.R. Tambo International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -547,7 +601,8 @@
         "country": "TW",
         "continent": "AS",
         "City": "Kaohsiung",
-        "AirportName": "Kaohsiung International Airport"
+        "AirportName": "Kaohsiung International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -557,7 +612,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Kaizuka",
-        "AirportName": "Kansai International Airport"
+        "AirportName": "Kansai International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -567,7 +623,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "昆明",
-        "AirportName": "昆明长水国际机场"
+        "AirportName": "昆明长水国际机场",
+        "province": "云南省"
     },
     {
         "coords": [
@@ -577,7 +634,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Ozu",
-        "AirportName": "Kumamoto Airport"
+        "AirportName": "Kumamoto Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -587,7 +645,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Kajiki",
-        "AirportName": "Kagoshima Airport"
+        "AirportName": "Kagoshima Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -597,7 +656,8 @@
         "country": "NP",
         "continent": "AS",
         "City": "N/A",
-        "AirportName": "Tribhuvan International Airport"
+        "AirportName": "Tribhuvan International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -607,7 +667,8 @@
         "country": "MY",
         "continent": "AS",
         "City": "Kampung Baharu Nilai",
-        "AirportName": "Kuala Lumpur International Airport"
+        "AirportName": "Kuala Lumpur International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -617,7 +678,8 @@
         "country": "US",
         "continent": "NA",
         "City": "El Segundo",
-        "AirportName": "Los Angeles International Airport"
+        "AirportName": "Los Angeles International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -627,7 +689,8 @@
         "country": "GB",
         "continent": "EU",
         "City": "West Drayton",
-        "AirportName": "London Heathrow Airport"
+        "AirportName": "London Heathrow Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -637,7 +700,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "兰州",
-        "AirportName": "兰州中川国际机场"
+        "AirportName": "兰州中川国际机场",
+        "province": "甘肃省"
     },
     {
         "coords": [
@@ -647,7 +711,8 @@
         "country": "IN",
         "continent": "AS",
         "City": "Pallavaram",
-        "AirportName": "Chennai Airport"
+        "AirportName": "Chennai Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -657,7 +722,8 @@
         "country": "ES",
         "continent": "EU",
         "City": "Barajas de Madrid",
-        "AirportName": "Adolfo Suarez Madrid-Barajas Airport"
+        "AirportName": "Adolfo Suarez Madrid-Barajas Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -667,7 +733,8 @@
         "country": "GB",
         "continent": "EU",
         "City": "Ringway",
-        "AirportName": "Manchester Airport"
+        "AirportName": "Manchester Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -677,7 +744,8 @@
         "country": "AU",
         "continent": "OC",
         "City": "Attwood",
-        "AirportName": "Tullamarine Airport"
+        "AirportName": "Tullamarine Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -687,7 +755,8 @@
         "country": "PH",
         "continent": "AS",
         "City": "Makati City",
-        "AirportName": "Ninoy Aquino International Airport"
+        "AirportName": "Ninoy Aquino International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -697,7 +766,8 @@
         "country": "IT",
         "continent": "EU",
         "City": "Vizzola Ticino",
-        "AirportName": "Milano Malpensa Airport"
+        "AirportName": "Milano Malpensa Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -707,7 +777,8 @@
         "country": "FJ",
         "continent": "OC",
         "City": "N/A",
-        "AirportName": "Nadi International Airport"
+        "AirportName": "Nadi International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -717,7 +788,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "宁波",
-        "AirportName": "宁波栎社国际机场"
+        "AirportName": "宁波栎社国际机场",
+        "province": "浙江省"
     },
     {
         "coords": [
@@ -727,7 +799,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Tokoname",
-        "AirportName": "Chubu Centrair International Airport"
+        "AirportName": "Chubu Centrair International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -737,7 +810,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "南京",
-        "AirportName": "南京禄口国际机场"
+        "AirportName": "南京禄口国际机场",
+        "province": "江苏省"
     },
     {
         "coords": [
@@ -747,7 +821,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Narita",
-        "AirportName": "Narita International Airport"
+        "AirportName": "Narita International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -757,7 +832,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "南通",
-        "AirportName": "南通兴东国际机场"
+        "AirportName": "南通兴东国际机场",
+        "province": "江苏省"
     },
     {
         "coords": [
@@ -767,7 +843,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Tomigusuku",
-        "AirportName": "Naha Airport"
+        "AirportName": "Naha Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -777,7 +854,8 @@
         "country": "US",
         "continent": "NA",
         "City": "Rosemont",
-        "AirportName": "O'Hare International Airport"
+        "AirportName": "O'Hare International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -787,7 +865,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "北京",
-        "AirportName": "北京首都国际机场"
+        "AirportName": "北京首都国际机场",
+        "province": "北京市"
     },
     {
         "coords": [
@@ -797,7 +876,8 @@
         "country": "MY",
         "continent": "AS",
         "City": "Kampung Sungai Ara",
-        "AirportName": "Penang International Airport"
+        "AirportName": "Penang International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -807,7 +887,8 @@
         "country": "AU",
         "continent": "OC",
         "City": "Redcliffe",
-        "AirportName": "Perth Airport"
+        "AirportName": "Perth Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -817,7 +898,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "北京",
-        "AirportName": "北京大兴国际机场"
+        "AirportName": "北京大兴国际机场",
+        "province": "北京市"
     },
     {
         "coords": [
@@ -827,7 +909,8 @@
         "country": "KH",
         "continent": "AS",
         "City": "Phnom Penh",
-        "AirportName": "Phnom Penh International Airport"
+        "AirportName": "Phnom Penh International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -837,7 +920,8 @@
         "country": "PG",
         "continent": "OC",
         "City": "N/A",
-        "AirportName": "Jacksons International Airport"
+        "AirportName": "Jacksons International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -847,7 +931,8 @@
         "country": "VN",
         "continent": "AS",
         "City": "Duong GJong",
-        "AirportName": "Phu Quoc Airport"
+        "AirportName": "Phu Quoc Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -857,7 +942,8 @@
         "country": "KR",
         "continent": "AS",
         "City": "Kimhae",
-        "AirportName": "Gimhae International Airport"
+        "AirportName": "Gimhae International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -867,7 +953,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "上海",
-        "AirportName": "上海浦东国际机场"
+        "AirportName": "上海浦东国际机场",
+        "province": "上海市"
     },
     {
         "coords": [
@@ -877,7 +964,8 @@
         "country": "TW",
         "continent": "AS",
         "City": "Fengyuan",
-        "AirportName": "Taichung International Airport"
+        "AirportName": "Taichung International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -887,7 +975,8 @@
         "country": "PW",
         "continent": "OC",
         "City": "Ngetkib",
-        "AirportName": "Airai Airport"
+        "AirportName": "Airai Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -897,7 +986,8 @@
         "country": "SA",
         "continent": "AS",
         "City": "Riyadh",
-        "AirportName": "King Khaled International Airport"
+        "AirportName": "King Khaled International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -907,7 +997,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Iwanuma",
-        "AirportName": "Sendai Airport"
+        "AirportName": "Sendai Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -917,7 +1008,8 @@
         "country": "US",
         "continent": "NA",
         "City": "Millbrae",
-        "AirportName": "San Francisco International Airport"
+        "AirportName": "San Francisco International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -927,7 +1019,8 @@
         "country": "VN",
         "continent": "AS",
         "City": "Quan Phu Nhuan",
-        "AirportName": "Tan Son Nhat International Airport"
+        "AirportName": "Tan Son Nhat International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -937,7 +1030,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "上海",
-        "AirportName": "上海虹桥国际机场"
+        "AirportName": "上海虹桥国际机场",
+        "province": "上海市"
     },
     {
         "coords": [
@@ -947,7 +1041,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "沈阳",
-        "AirportName": "沈阳桃仙国际机场"
+        "AirportName": "沈阳桃仙国际机场",
+        "province": "辽宁省"
     },
     {
         "coords": [
@@ -957,7 +1052,8 @@
         "country": "SG",
         "continent": "AS",
         "City": "Singapore",
-        "AirportName": "Changi International Airport"
+        "AirportName": "Changi International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -967,7 +1063,8 @@
         "country": "MP",
         "continent": "OC",
         "City": "Saipan",
-        "AirportName": "Saipan International Airport"
+        "AirportName": "Saipan International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -977,7 +1074,8 @@
         "country": "ID",
         "continent": "AS",
         "City": "Semampirbarat",
-        "AirportName": "Juanda International Airport"
+        "AirportName": "Juanda International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -987,7 +1085,8 @@
         "country": "RU",
         "continent": "EU",
         "City": "Khimki",
-        "AirportName": "Sheremetyevo International Airport"
+        "AirportName": "Sheremetyevo International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -997,7 +1096,8 @@
         "country": "AU",
         "continent": "OC",
         "City": "N/A",
-        "AirportName": "Sydney (Kingsford Smith) Airport"
+        "AirportName": "Sydney (Kingsford Smith) Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1007,7 +1107,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "三亚",
-        "AirportName": "三亚凤凰国际机场"
+        "AirportName": "三亚凤凰国际机场",
+        "province": "海南省"
     },
     {
         "coords": [
@@ -1017,7 +1118,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Takamatsu-shi",
-        "AirportName": "Takamatsu Airport"
+        "AirportName": "Takamatsu Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1027,7 +1129,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "青岛",
-        "AirportName": "青岛流亭国际机场"
+        "AirportName": "青岛流亭国际机场",
+        "province": "山东省"
     },
     {
         "coords": [
@@ -1037,7 +1140,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "成都",
-        "AirportName": "成都天府国际机场"
+        "AirportName": "成都天府国际机场",
+        "province": "四川省"
     },
     {
         "coords": [
@@ -1047,7 +1151,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Narutocho-mitsuishi",
-        "AirportName": "Tokushima Awaodori Airport"
+        "AirportName": "Tokushima Awaodori Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1057,7 +1162,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "济南",
-        "AirportName": "济南遥墙国际机场"
+        "AirportName": "济南遥墙国际机场",
+        "province": "山东省"
     },
     {
         "coords": [
@@ -1067,7 +1173,8 @@
         "country": "TW",
         "continent": "AS",
         "City": "Taoyuan City",
-        "AirportName": "Taiwan Taoyuan International Airport"
+        "AirportName": "Taiwan Taoyuan International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1077,7 +1184,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "天津",
-        "AirportName": "天津滨海国际机场"
+        "AirportName": "天津滨海国际机场",
+        "province": "天津市"
     },
     {
         "coords": [
@@ -1087,7 +1195,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "黄山",
-        "AirportName": "黄山屯溪国际机场"
+        "AirportName": "黄山屯溪国际机场",
+        "province": "安徽省"
     },
     {
         "coords": [
@@ -1097,7 +1206,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "太原",
-        "AirportName": "太原武宿国际机场"
+        "AirportName": "太原武宿国际机场",
+        "province": "山西省"
     },
     {
         "coords": [
@@ -1107,7 +1217,8 @@
         "country": "MN",
         "continent": "N/A",
         "City": "Zuunmod",
-        "AirportName": "New Ulaanbaatar International Airport"
+        "AirportName": "New Ulaanbaatar International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1117,7 +1228,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "乌鲁木齐",
-        "AirportName": "乌鲁木齐地窝堡国际机场"
+        "AirportName": "乌鲁木齐地窝堡国际机场",
+        "province": "新疆维吾尔自治区"
     },
     {
         "coords": [
@@ -1127,7 +1239,8 @@
         "country": "TH",
         "continent": "AS",
         "City": "Ko Samui",
-        "AirportName": "Koh Samui Airport"
+        "AirportName": "Koh Samui Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1137,7 +1250,8 @@
         "country": "LA",
         "continent": "AS",
         "City": "Si Chiang Mai",
-        "AirportName": "Wattay International Airport"
+        "AirportName": "Wattay International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1147,7 +1261,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "温州",
-        "AirportName": "温州龙湾国际机场"
+        "AirportName": "温州龙湾国际机场",
+        "province": "浙江省"
     },
     {
         "coords": [
@@ -1157,7 +1272,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "武汉",
-        "AirportName": "武汉天河国际机场"
+        "AirportName": "武汉天河国际机场",
+        "province": "湖北省"
     },
     {
         "coords": [
@@ -1167,7 +1283,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "无锡",
-        "AirportName": "无锡硕放机场"
+        "AirportName": "无锡硕放机场",
+        "province": "江苏省"
     },
     {
         "coords": [
@@ -1177,7 +1294,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "咸阳",
-        "AirportName": "西安咸阳国际机场"
+        "AirportName": "西安咸阳国际机场",
+        "province": "陕西省"
     },
     {
         "coords": [
@@ -1187,7 +1305,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "厦门",
-        "AirportName": "厦门高崎国际机场"
+        "AirportName": "厦门高崎国际机场",
+        "province": "福建省"
     },
     {
         "coords": [
@@ -1197,7 +1316,8 @@
         "country": "CN",
         "continent": "AS",
         "City": "运城",
-        "AirportName": "运城盐湖国际机场"
+        "AirportName": "运城盐湖国际机场",
+        "province": "山西省"
     },
     {
         "coords": [
@@ -1207,7 +1327,8 @@
         "country": "JP",
         "continent": "AS",
         "City": "Sakaiminato",
-        "AirportName": "Miho Airport"
+        "AirportName": "Miho Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1217,7 +1338,8 @@
         "country": "CA",
         "continent": "NA",
         "City": "Richmond",
-        "AirportName": "Vancouver International Airport"
+        "AirportName": "Vancouver International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1227,7 +1349,8 @@
         "country": "CA",
         "continent": "NA",
         "City": "Etobicoke",
-        "AirportName": "Pearson International Airport"
+        "AirportName": "Pearson International Airport",
+        "province": "N/A"
     },
     {
         "coords": [
@@ -1237,6 +1360,7 @@
         "country": "CH",
         "continent": "EU",
         "City": "Glattbrugg / Rohr/Platten-Balsberg",
-        "AirportName": "Zurich Airport"
+        "AirportName": "Zurich Airport",
+        "province": "N/A"
     }
 ]
